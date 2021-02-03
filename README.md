@@ -22,6 +22,7 @@ barcode, name, amount, price
   ```
 
 **Output:**
+
 Program prints generated bill in the console:
 ```
 	|name      |amount    |price     |discount  |total     
